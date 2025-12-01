@@ -51,9 +51,10 @@ I focus on highly scalable systems, modern app architecture, and production-read
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" height="165"/>
+  <img src="https://github-readme-stats-mu-coral.vercel.app/api?username=NasserAlmeel&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats-mu-coral.vercel.app/api/top-langs/?username=NasserAlmeel&layout=compact&theme=radical" height="165"/>
 </p>
+
 
 ---
 
@@ -122,6 +123,6 @@ flowchart TD
 
 # 🔗 Find Me Online
 - 🌐 Website: **https://dhdhub.com**  
-- 💼 LinkedIn: **https://linkedin.com/in/nasseralmeel**  
+- 💼 LinkedIn: **https://linkedin.com/in/nasser-almeel**  
 - ✉️ Email: **naser@dhdhub.com**
 
