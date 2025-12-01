@@ -1,5 +1,5 @@
 # 🧑‍💻 CTO • Senior Software Engineer • AI & FinTech Builder  
-### Co-Founder & CTO @ DHD Software Development | Senior Software Engineer @ Eazy Financial Services
+### Co-Founder & CTO @ DHD Software Development | Senior Software Engineer @ Some Company
 
 Hi 👋 I’m **Nasser**, a **Senior Software Engineer**, **CTO**, and **multi-startup founder** building next-generation digital products in **FinTech, E-commerce, AI SaaS, POS**, and **Enterprise Systems**.
 
