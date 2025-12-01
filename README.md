@@ -51,9 +51,10 @@ I focus on highly scalable systems, modern app architecture, and production-read
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-mu-coral.vercel.app/api?username=NasserAlmeel&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats-mu-coral.vercel.app/api/top-langs/?username=NasserAlmeel&layout=compact&theme=radical" height="165"/>
+  <img src="https://github-readme-stats-git-master-codestates.vercel.app/api?username=NasserAlmeel&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats-git-master-codestates.vercel.app/api/top-langs/?username=NasserAlmeel&layout=compact&theme=radical" height="165"/>
 </p>
+
 
 
 ---
