@@ -10,7 +10,7 @@ I focus on highly scalable systems, modern app architecture, and production-read
 ## 🦾 Expertise
 
 ### 💳 FinTech & Payment Systems
-- POS / SoftPOS (Topwise T6)  
+- POS / SoftPOS (Topwise - Sunmi)  
 - BenefitPay QR, Apple Pay / Google Pay  
 - Payment gateways: Tabby, Tap, Binance Pay, STC Pay  
 - Settlement flows, DCC, secure receipt printing  
