@@ -3,7 +3,7 @@
 <h3 align="center">Computer Scientist</h3>
 
 <p align="center">
-  Fintech, AI products, and scalable systems — applied computing from research to production.
+  Fintech, AI products, and scalable systems: applied computing from research to production.
 </p>
 
 <p align="center">
@@ -17,12 +17,12 @@
 
 ### About
 
-I'm a **computer scientist** working across research-minded engineering and real product delivery — **fintech**, **AI systems**, and **scalable architecture**. I turn complex systems problems into shipping products: payment rails, voice AI, cloud backends, and mobile apps.
+I'm a **computer scientist** working across research-minded engineering and real product delivery: **fintech**, **AI systems**, and **scalable architecture**. I turn complex systems problems into shipping products: payment rails, voice AI, cloud backends, and mobile apps.
 
 I also operate as a technical founder and fractional CTO, leading teams from MVP to production.
 
 Currently:
-- **Fractional CTO** at **[VOXA](https://voxa.club)** — AI-powered voice coaching platform
+- **Fractional CTO** at **[VOXA](https://voxa.club)**: AI-powered voice coaching platform
 - **Senior Product Engineer** at **[DOO Technology Solutions](https://doo.ooo)**
 - **Founder & CEO** at **[nerdlogic.dev](https://nerdlogic.dev)**
 
