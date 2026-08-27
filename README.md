@@ -3,15 +3,14 @@
 <h3 align="center">Technology Leader & Fintech Engineer</h3>
 
 <p align="center">
-  Payment systems, POS & EMV, AI product delivery, and scalable cloud architecture.<br/>
-  PhD candidate in Computing & Information Sciences · Based in Bahrain 🇧🇭
+  Payment systems, POS & EMV, AI product delivery, and scalable cloud architecture.
 </p>
 
 <p align="center">
   <a href="https://nalmeel.com"><img src="https://img.shields.io/badge/Portfolio-nalmeel.com-22d3ee?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/nasser-almeel"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:naser@doo.ooo"><img src="https://img.shields.io/badge/Email-naser@doo.ooo-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://calendar.app.google/BsevPNndDsN6S8CU7"><img src="https://img.shields.io/badge/Book_a_Call-Google_Calendar-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Book a call"/></a>
+  <a href="mailto:naser@nerdlogic.dev"><img src="https://img.shields.io/badge/Email-naser@nerdlogic.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:naser@nerdlogic.dev?subject=Book%20a%20call"><img src="https://img.shields.io/badge/Book_a_Call-naser@nerdlogic.dev-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Book a call"/></a>
 </p>
 
 ---
@@ -67,23 +66,15 @@ Currently:
 
 ---
 
-### Featured Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**VoxaHQ**](https://github.com/NasserAlmeel/VoxaHQ) | AI-powered voice coaching platform | TypeScript |
-| [**MyPortfolio**](https://github.com/NasserAlmeel/MyPortfolio) | Personal site — [nalmeel.com](https://nalmeel.com) | Astro, React, Tailwind |
-| [**NerdLogic**](https://github.com/NasserAlmeel/NerdLogic) | nerdlogic.dev product suite | JavaScript |
-| [**Yomna**](https://github.com/NasserAlmeel/Yomna) | Mobile application | Flutter |
-| [**EnvHub**](https://github.com/NasserAlmeel/EnvHub) | Environment management tool | TypeScript |
-
----
-
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NasserAlmeel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NasserAlmeel&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NasserAlmeel&theme=tokyonight" alt="Profile Details"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NasserAlmeel&theme=tokyonight" alt="Repos per Language" height="200"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NasserAlmeel&theme=tokyonight" alt="Most Commit Language" height="200"/>
 </p>
 
 <p align="center">
@@ -94,5 +85,5 @@ Currently:
 
 <p align="center">
   <i>Open to consulting, fractional CTO work, and interesting product builds.</i><br/>
-  <a href="https://calendar.app.google/BsevPNndDsN6S8CU7">Book a 30 min call</a> · <a href="https://nalmeel.com">nalmeel.com</a>
+  <a href="mailto:naser@nerdlogic.dev?subject=Book%20a%20call">Book a call</a> · <a href="https://nalmeel.com">nalmeel.com</a>
 </p>
