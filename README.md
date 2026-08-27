@@ -3,7 +3,7 @@
 <h3 align="center">Computer Scientist</h3>
 
 <p align="center">
-  Payment systems, POS & EMV, AI product delivery, and scalable cloud architecture.
+  Fintech, AI products, and scalable systems — applied computing from research to production.
 </p>
 
 <p align="center">
@@ -17,7 +17,9 @@
 
 ### About
 
-I'm a technical founder and product engineer focused on **fintech**, **AI-powered products**, and **scalable system design**. I lead teams from MVP to production — across mobile apps, backend services, POS terminals, and cloud infrastructure.
+I'm a **computer scientist** working across research-minded engineering and real product delivery — **fintech**, **AI systems**, and **scalable architecture**. I turn complex systems problems into shipping products: payment rails, voice AI, cloud backends, and mobile apps.
+
+I also operate as a technical founder and fractional CTO, leading teams from MVP to production.
 
 Currently:
 - **Fractional CTO** at **[VOXA](https://voxa.club)** — AI-powered voice coaching platform
