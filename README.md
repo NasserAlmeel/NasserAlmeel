@@ -73,12 +73,13 @@ Currently:
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NasserAlmeel&theme=tokyonight" alt="Repos per Language" height="200"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NasserAlmeel&theme=tokyonight" alt="Most Commit Language" height="200"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NasserAlmeel&theme=tokyonight" alt="GitHub Stats" height="200"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NasserAlmeel&theme=tokyonight" alt="Productive Time" height="200"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=NasserAlmeel&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NasserAlmeel&theme=tokyonight" alt="Repos per Language" height="200"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NasserAlmeel&theme=tokyonight" alt="Most Commit Language" height="200"/>
 </p>
 
 ---
