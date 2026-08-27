@@ -20,7 +20,7 @@
 I'm a technical founder and product engineer focused on **fintech**, **AI-powered products**, and **scalable system design**. I lead teams from MVP to production — across mobile apps, backend services, POS terminals, and cloud infrastructure.
 
 Currently:
-- **Fractional CTO** at **[VOXA](https://github.com/MyVoxaApp)** — AI-powered voice coaching platform
+- **Fractional CTO** at **[VOXA](https://voxa.club)** — AI-powered voice coaching platform
 - **Senior Product Engineer** at **[DOO Technology Solutions](https://doo.ooo)**
 - **Founder & CEO** at **[nerdlogic.dev](https://nerdlogic.dev)**
 
