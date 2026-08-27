@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Naser 👋</h1>
 
-<h3 align="center">Technology Leader & Fintech Engineer</h3>
+<h3 align="center">Computer Scientist</h3>
 
 <p align="center">
   Payment systems, POS & EMV, AI product delivery, and scalable cloud architecture.
