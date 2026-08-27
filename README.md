@@ -10,7 +10,7 @@
   <a href="https://nalmeel.com"><img src="https://img.shields.io/badge/Portfolio-nalmeel.com-22d3ee?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/nasser-almeel"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:naser@nerdlogic.dev"><img src="https://img.shields.io/badge/Email-naser@nerdlogic.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="mailto:naser@nerdlogic.dev?subject=Book%20a%20call"><img src="https://img.shields.io/badge/Book_a_Call-naser@nerdlogic.dev-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Book a call"/></a>
+  <a href="https://calendar.app.google/i7q1UY7ZnDHyJ5nH7"><img src="https://img.shields.io/badge/Book_a_Call-Google_Calendar-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Book a call"/></a>
 </p>
 
 ---
@@ -20,9 +20,9 @@
 I'm a technical founder and product engineer focused on **fintech**, **AI-powered products**, and **scalable system design**. I lead teams from MVP to production — across mobile apps, backend services, POS terminals, and cloud infrastructure.
 
 Currently:
-- **Fractional CTO** at [VOXA](https://github.com/NasserAlmeel/VoxaHQ) — AI-powered voice coaching platform
-- **Senior Product Engineer** at DOO Technology Solutions
-- **Founder & CEO** at [nerdlogic.dev](https://github.com/NasserAlmeel/NerdLogic)
+- **Fractional CTO** at **[VOXA](https://voxahq.com)** — AI-powered voice coaching platform
+- **Senior Product Engineer** at **[DOO Technology Solutions](https://doo.ooo)**
+- **Founder & CEO** at **[nerdlogic.dev](https://nerdlogic.dev)**
 
 ---
 
@@ -78,12 +78,12 @@ Currently:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NasserAlmeel&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=NasserAlmeel&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
 
 <p align="center">
   <i>Open to consulting, fractional CTO work, and interesting product builds.</i><br/>
-  <a href="mailto:naser@nerdlogic.dev?subject=Book%20a%20call">Book a call</a> · <a href="https://nalmeel.com">nalmeel.com</a>
+  <a href="https://calendar.app.google/i7q1UY7ZnDHyJ5nH7">Book a call</a> · <a href="https://nalmeel.com">nalmeel.com</a>
 </p>
